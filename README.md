@@ -25,6 +25,7 @@ The script executes the following sequence several times:
 
 ## Results
 ![Testrun for 500 iterations](./test_runs/TestAnilist_500Iterations.png)
+:warning: The memory is never returned to the system. :warning:
 
 ## Contributing
 Suggestions and pull requests are welcome on GitHub at https://github.com/reureu/graphql-client-consumer.
