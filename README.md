@@ -1,5 +1,5 @@
 # Graphql::Client::Consumer
-This is a simple consumer library of the graphql-client gem to show how parsing a graphql-schema consumes memory.
+This is a simple consumer library of the [graphql-client](https://github.com/github/graphql-client) gem to show how parsing a graphql-schema consumes memory.
 
 ## Installation
 Don't try to consume graphql-client-consumer as a gem. It is only a test project with one simple ruby script.
