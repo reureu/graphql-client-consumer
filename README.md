@@ -24,5 +24,5 @@ The script execute the following sequence several times:
 * It logs the current memory consumption.
 
 ## Contributing
-Suggestions and pull requests are welcome on GitHub at https://github.com/[USERNAME]/graphql-client-consumer.
+Suggestions and pull requests are welcome on GitHub at https://github.com/reureu/graphql-client-consumer.
 
