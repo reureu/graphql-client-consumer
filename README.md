@@ -23,6 +23,9 @@ The script execute the following sequence several times:
 * It starts the garbage collection.
 * It logs the current memory consumption.
 
+## Results
+![Testrun for 500 iterations](./test_runs/TestAnilist_500Iterations.png)
+
 ## Contributing
 Suggestions and pull requests are welcome on GitHub at https://github.com/reureu/graphql-client-consumer.
 
