@@ -15,7 +15,7 @@ Then call test.rb as follows:
     $ bundle exec ./lib/test.rb
 
 ## Functionality
-The script execute the following sequence several times:
+The script executes the following sequence several times:
 * It creates an HTTP-client.
 * It gets the graphql-schema of a public GraphQL-API.
 * It creates a GraphQL-Client.
