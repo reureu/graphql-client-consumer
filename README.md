@@ -19,7 +19,7 @@ The script execute the following sequence several times:
 * It creates an HTTP-client.
 * It gets the graphql-schema of a public GraphQL-API.
 * It creates a GraphQL-Client.
-* It parses the schema.
+* It parses a query.
 * It starts the garbage collection.
 * It logs the current memory consumption.
 
